@@ -1,0 +1,6 @@
+.nav__list {
+    background-color: black;
+    color: white;
+    list-style-type: none;
+    display: flex;
+}
