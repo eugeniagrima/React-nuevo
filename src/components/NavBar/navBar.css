@@ -1,6 +1,10 @@
 .nav__list {
-    background-color: black;
-    color: white;
+    background-color: rgb(119, 115, 115);
+    color: black;
     list-style-type: none;
     display: flex;
+    width: auto;
+    padding: 50px;
+    justify-content: space-between;
+    font-size: 1.5rem;
 }

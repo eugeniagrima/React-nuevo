@@ -1,8 +1,9 @@
-.conunter {
+.counter {
     width: fit-content;
     background-color: grey;
     margin: auto;
     padding: 1rem;
     text-align: center;
+    font-size: 2rem;
 }
 
